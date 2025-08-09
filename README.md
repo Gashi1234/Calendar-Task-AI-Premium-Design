@@ -50,6 +50,10 @@ See `docs/screenshots/` for all screenshots.
 
 Test coverage report is included in the `coverage/` folder.
 
+Run Tests & Coverage:
+npm test
+npm test -- --coverage
+
 Current coverage: **≥5%**.
 
 ---

@@ -1,17 +1,7 @@
 # Calendar Task – Premium Design
 
 Project built with **Expo (React Native)** and **Firebase**.  
-This version uses a **premium UI design** with the same core functionality as the Simple version, plus enhanced styling:
-- Email/password authentication
-- Biometric re-login
-- Custom calendar (no third-party library)
-- Create and edit events
-- Safe layout for devices with notches
-- Header + navbar
-- Screen transition animations
-- Modern premium UI with gradients, shadows, and refined spacing
-
----
+This version uses a **premium UI design** with the same core functionality as the Simple version, plus enhanced styling.
 
 ## Software Versions (tested)
 

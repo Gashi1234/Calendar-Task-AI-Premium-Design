@@ -22,7 +22,12 @@ This version uses a **premium UI design** with the same core functionality as th
 
 For quick testing, you can use the following credentials:
 
+1st user:
 - **Email Address:** `user2@example.com`  
+- **Password:** `123456`
+
+2nd user:
+- **Email Address:** `user3@example.com`  
 - **Password:** `123456`
 
 Events already added and edited on these calendar dates: 7th, 8th, 9th - August 2025. You can add yours on any date.

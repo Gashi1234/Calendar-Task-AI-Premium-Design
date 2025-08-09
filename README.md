@@ -3,6 +3,8 @@
 Project built with **Expo (React Native)** and **Firebase**.  
 This version uses a **premium UI design** with the same core functionality as the Simple version, plus enhanced styling.
 
+---
+
 ## Software Versions (tested)
 
 - **Node.js:** 18.x
@@ -39,8 +41,7 @@ See `docs/screenshots/` for all screenshots.
 
 ## Tests & Coverage
 
-Test coverage report is included in the `coverage/` folder.  
-Open `coverage/lcov-report/index.html` in a browser to view detailed results.
+Test coverage report is included in the `coverage/` folder.
 
 Current coverage: **≥5%**.
 

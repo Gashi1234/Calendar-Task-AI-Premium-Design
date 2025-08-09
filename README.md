@@ -1,6 +1,6 @@
 # Calendar Task – Premium Design
 
-A job application project built with **Expo (React Native)** and **Firebase**.  
+Project built with **Expo (React Native)** and **Firebase**.  
 This version uses a **premium UI design** with the same core functionality as the Simple version, plus enhanced styling:
 - Email/password authentication
 - Biometric re-login
